@@ -13,7 +13,7 @@ An advanced, multi-tool AI Executive Assistant built using **n8n** This workflow
 ## 🛠️ Architecture & Nodes Used
 As shown on the n8n canvas:
 1. **Telegram Trigger:** The front-end interface listening for real-time text instructions.
-2. **AI Agent (LangChain):** The orchestration center that maps conversational commands into technical execution protocols.
+2. **AI Agent :** The orchestration center that maps conversational commands into technical execution protocols.
 3. **Google Gemini Chat Model:** Advanced language intelligence handling prompt reasoning and formatting.
 4. **Simple Memory (Window Buffer):** Tracks conversation state across multiple chat interactions.
 5. **Connected Sub-Tools (The Agent's Hands):**
