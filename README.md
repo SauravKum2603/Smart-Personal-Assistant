@@ -1,6 +1,6 @@
-# 🤖 Personal AI Executive Assistant (Telegram + LangChain)
+# 🤖 Personal AI Executive Assistant 
 
-An advanced, multi-tool AI Executive Assistant built using **n8n** and **LangChain**. This workflow acts as a centralized personal productivity engine inside Telegram. Powered by **Google Gemini**, the agent dynamically orchestrates schedules via Google Calendar, drafts/sends emails via Gmail, and interfaces with Fireflies.ai to fetch meeting names, summaries, and full transcripts using natural language commands.
+An advanced, multi-tool AI Executive Assistant built using **n8n** This workflow acts as a centralized personal productivity engine inside Telegram. Powered by **Google Gemini**, the agent dynamically orchestrates schedules via Google Calendar, drafts/sends emails via Gmail, and interfaces with Fireflies.ai to fetch meeting names, summaries, and full transcripts using natural language commands.
 
 ## 🚀 Features
 - **Unified Command Center:** Manage emails, calendar invites, and meeting transcripts from a single Telegram chat interface.
